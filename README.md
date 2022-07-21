@@ -1,4 +1,4 @@
-# EDA-on-on-Insurance-Dataset
+# EDA-on-Insurance-Dataset
 Exploratory Data Analysis on Insurance Dataset
 
 
